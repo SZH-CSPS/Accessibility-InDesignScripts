@@ -30,4 +30,5 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 
 **Files** 
-Please use SwissTransfer (free and made with love!) https://www.swisstransfer.com if you want us to try to understand what is happening, contact us if you don't want to publish them here ;-)
+Here is a reformulated version:
+> If reproducing the issue requires sharing files, please attach them directly to this issue or upload them via **[SwissTransfer](https://www.swisstransfer.com)** (free file transfer service) and paste the download link here. If you would prefer not to share your files publicly, feel free to contact us directly.
