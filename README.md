@@ -19,7 +19,8 @@ Scripts are located in the [`indesign scripts/`](indesign%20scripts/) folder.
 
 All feedback is welcome!
 
-If you encounter a bug or unexpected behaviour, please **[open an issue](../../issues/new/choose)** using the bug report template. You will be asked to describe the problem in detail and to share the relevant files — either directly in the issue or via **[SwissTransfer](https://www.swisstransfer.com)**.
+If you encounter a bug or unexpected behaviour, please **[open an issue](../../issues/new/choose)** using the bug report template. You will be asked to describe the problem in detail.
+If reproducing the issue requires sharing files, please attach them directly to this issue or upload them via **[SwissTransfer](https://www.swisstransfer.com)** (free file transfer service) and paste the download link in the issue. If you would prefer not to share your files publicly, feel free to contact us directly.
 
 
 ## ⚠️ Disclaimer
@@ -31,6 +32,7 @@ Some scripts in this repository modify the structure or stacking order of object
 - Manually verify the result after the script has completed — both in the InDesign document and in the exported PDF
 
 These scripts are provided **as is**, without warranty of any kind. The Swiss Centre for Special Needs Education (SZH/CSPS) cannot be held responsible for any data loss, document corruption, or unintended changes resulting from the use of these scripts.
+
 ---
 
 ## License

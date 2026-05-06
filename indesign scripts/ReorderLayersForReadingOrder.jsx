@@ -4,7 +4,7 @@
  * Reorders objects in the layers according to the order defined in the
  * InDesign Articles panel, WITHOUT exporting a PDF.
  *
- * Copyright (C) 2025
+ * Copyright (C) 2026 Swiss Centre for Special Needs Education (SZH/CSPS) https://www.csps.ch
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

@@ -29,5 +29,5 @@ If applicable, add screenshots to help explain your problem.
 **Additional context**
 Add any other context about the problem here.
 
-**Files ** 
-Please use [SwissTransfer (free and made with love!)](https://www.swisstransfer.com) if you want us to try to understand what is happening, contact us if you don't want to publish them here ;-)
+**Files** 
+Please use SwissTransfer (free and made with love!) https://www.swisstransfer.com if you want us to try to understand what is happening, contact us if you don't want to publish them here ;-)
